@@ -30,14 +30,11 @@
 @media screen and (max-width: 767px) {
   .place__paragraph {
     padding: 0 16px 25px;
-    font-size: 16px;
-    line-height: 1.63;
   }
 }
 
 @media screen and (max-width: 425px) {
   .place__paragraph {
-    padding: 0 16px 25px;
     max-width: 288px;
   }
 }

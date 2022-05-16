@@ -1,8 +1,7 @@
-.header__link {
-  text-decoration: none;
-}
-
 .header__link:first-child {
   margin-right: 18px;
-  text-decoration: underline;
+}
+
+.header__link:hover {
+  opacity: .8;
 }
